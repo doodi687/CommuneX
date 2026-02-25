@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 lg:col-span-2 gap-15">
         <div className="flex justify-center">
           <img
-            src="https://i.postimg.cc/BvXyZQcc/campus-Swaplogo.png"
+            src="/favicon.ico" alt="Logo"  //className="h-8" 
             width={"100px"}
             className="hover:animate-tada"
             onClick={() => navigate("/")}

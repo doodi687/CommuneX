@@ -57,8 +57,8 @@ const Chats = () => {
         <div className="lg:col-span-4 w-full flex flex-col justify-center items-center">
           <img
             className="max-h-96"
-            src="https://i.postimg.cc/wvL5GBFZ/chatss.png"
-            alt=""
+            src="/favicon.ico"
+            alt="Chat Icon"
           />
           <h2 className="text-3xl text-gray-700 font-medium">
             Click Chat to Enter

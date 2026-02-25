@@ -5,10 +5,9 @@ const Footer = () => {
         <div className="flex flex-col justify-center items-center">
 
         <img
-          src="https://i.postimg.cc/BvXyZQcc/campus-Swaplogo.png"
+          src="/favicon.ico" alt="Logo" className="h-8" 
           width={"100px"}
           height={"100px"}
-          alt=""
           />
           </div>
         <div className="flex flex-col justify-center items-center">

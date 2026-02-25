@@ -15,7 +15,7 @@ export default function Herosection() {
         </div>
       </div>
       <div className="flex justify-center items-align">
-        <img src="https://i.postimg.cc/xdvkVtV0/Image.png" alt="" />
+        <img src="/favicon.ico" alt="Logo" className="h-8" />
       </div>
     </div>
   );
